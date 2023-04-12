@@ -1,0 +1,338 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background: black;
+
+}
+.logo{
+    position: absolute;
+    left: 0;
+    width: 165px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.headertabs{
+    display: flex;
+    gap: 43px;
+    position: absolute;
+    top: 5px;
+    bottom: 541px;
+    padding-top: 20px;
+    padding-left: 334px;
+}
+.headertabs a{
+    color: white;
+    text-decoration: none;
+}
+.toprightmanu{
+    display: flex;
+    gap: 16px;
+    padding-top: 24px;
+    padding-left: 1065px;
+}
+.toprightmanu a {
+    color: white;
+    text-decoration: none;
+}
+.toprightmanu img{
+    position: relative;
+    height: 20px;
+    right: -14px;
+}
+header{
+    background-image: url(img/Marketing_LandingFeatured_Redesign.webp);
+    width: 102%;
+    height: 957px;
+    margin-top: -16px;
+    margin-left: -10px;
+    background-size: cover;
+
+}
+header h1{
+    color: #fff;
+    position: absolute;
+    text-align: center;
+    padding-left: 501px;
+    padding-top: 26px;
+    font-weight: bolder;
+    font-size: 43px;
+}
+header p{
+    color: #ffffff;
+    text-align: center;
+    margin-left: 416px;
+    margin-right: 372px;
+    padding-top: 114px;
+    padding-right: 38px;
+}
+.Addressinput {
+    margin-left: 428px;
+    padding-top: 511px;
+    box-sizing: border-box;
+    
+}
+input[type="text"] {
+    width: 382px; /* set the width to 300 pixels */
+    height: 44px; /* set the height to 30 pixels */
+    border-radius: 8px;
+    color: #ffffff;
+    background-color: transparent;
+
+
+  }
+  header button{
+    width: 117px;
+    height: 48px;
+    border-radius: 8px;
+    color: #000000;
+    font-weight: bold;
+
+  }
+header h4 a{
+    text-decoration: none;
+    color: #fff;
+    padding-left: 537px;
+}
+.downarrow{
+    position: absolute;
+    top: 0;
+  left: 0;
+  z-index: 1;
+  height: 60px;
+  margin-top: 918px;
+  margin-left: 603px;
+}
+.section-left img{
+    width: 50%;
+    height: auto;
+    margin-top: -535px;
+    margin-left:-8px;
+}
+.section-left h1{
+    color: #fff;
+    padding-left: 581px;
+    margin-left: 129px;
+    margin-right: 114px;
+    padding-top: 21px;
+    font-size: 50px;
+
+
+}
+.section-left p{
+    text-align: justify;
+    color: #fff;
+    margin-left: 712px;
+    margin-right: 139px;
+
+}
+.section-left button{
+    position: absolute;
+    width: 300px;
+    border: 2px solid white;
+    margin-left: 53px;
+    height: 44px;
+    background-color: #000000;
+    color: #fff;
+    border-radius: 2px;
+}
+.section1{
+    color: #fff;
+    margin-right: 778px;
+    text-align: justify;
+    padding-left: 239px;
+    margin-left: -70px;;
+    margin-top: 83px;
+    bottom: 10px;
+}
+.section1 button {
+    position: absolute;
+    width: 300px;
+    border: 2px solid white;
+    margin-left: 53px;
+    height: 44px;
+    background-color: #000000;
+    color: #fff;
+    border-radius: 2px;
+    bottom: -1125px;
+    left: 127px;
+}
+.section1 img{
+    position: absolute;
+    width: auto;
+    height: 61%;
+    margin-top: -101px;
+    margin-left: 500px;
+}
+.section2{
+    position: absolute;
+    color: #fff;
+    bottom: -1610px;
+    margin-right: -44px;
+    right: 226px;
+    text-align: justify;
+    padding-left: 712px;
+
+}
+.section2 button{
+    position: absolute;
+    width: 300px;
+    border: 2px solid white;
+    height: 44px;
+    background-color: #000000;
+    color: #fff;
+    border-radius: 2px;
+    top: 296px;
+
+}
+.section2 img{
+    position: absolute ;
+    width: 663px;
+    height: auto;
+    left: 0;
+    top: 0;
+}
+.section3 img{
+    position: absolute;
+    top: 2341px;
+    left: 0;
+    height: 750px;
+}
+.sections a{
+    text-decoration: none;
+    color: #fff;
+}
+.section4{
+    color: #fff;
+    position: absolute;
+    top: 2540px ;
+    left: 179px;
+    right: 837px;
+    text-align: left;
+}
+.section4 button{
+    position: absolute;
+    width: 300px;
+    border: 2px solid white;
+    height: 44px;
+    background: transparent;
+    color: #fff;
+    border-radius: 2px;
+}
+.section4 a{
+    text-decoration: none;
+    color: #fff;
+}
+.section5 img{
+    position: absolute;
+    top: 3089px;
+    left: 0;
+}
+.section5{
+    color: #fff;
+    margin-top: 114%;
+    margin-left: 68%;
+}
+.button1{
+    position: absolute;
+    width: 300px;
+    border: 2px solid white;
+    height: 44px;
+    background: transparent;
+    color: #fff;
+    border-radius: 2px;
+
+}
+.button2{
+    position: absolute;
+    width: 300px;
+    border: 2px solid white;
+    height: 44px;
+    background: transparent;
+    color: #fff;
+    border-radius: 2px;
+    bottom: -2880px;
+}
+.section5 a{
+    text-decoration: none;
+    color: #fff;
+}
+.CUSTOMER-QUOTES{
+    color: #fff;
+    position: absolute;
+    display: flex;
+    gap: 30PX;
+    flex-direction: row;
+    bottom: -3622px;
+    left: 149PX;
+    right: 149PX;
+    line-height: 36px;
+    
+}
+.CUSTOMER-QUOTESHEAD{
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    bottom: -3307PX;
+    padding-left: 458PX;
+}
+.vertical-line{
+    width: 1px;
+    height: 100px;
+    background-color: #fff;
+}
+footer button{
+    width: 117px;
+    height: 48px;
+    border-radius: 8px;
+    color: #000000;
+    font-weight: bold;
+    position: absolute;
+    bottom: -3900PX;
+    left: 799PX;
+
+}
+input[type="email"] {
+    width: 382px; /* set the width to 300 pixels */
+    height: 44px; /* set the height to 30 pixels */
+    border-radius: 8px;
+    font-weight: lighter;
+    background-color: rgba(255, 255, 255, 0.1);
+    position: absolute;
+    bottom:-3900px ;
+    left: 394px;
+}
+.footer-bottom{
+    color: #fff;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    bottom: -651%;
+}
+.copyright{
+    color: #fff;
+    position: absolute;
+    padding-top: 1275px;
+}
+.footerlinks{
+    display: flex;
+    gap: 36px;
+    position: absolute;
+    padding-top: 1259px;
+    padding-left: 312px;
+
+}
+.footerlinks a{
+    text-decoration: none;
+    color: #fff;
+    flex-grow: 1;
+  text-align: center;
+}
+.endnote{
+    color: #fff;
+    position: absolute;
+    padding-top: 1275px;
+    padding-left: 1122px;
+
+}
